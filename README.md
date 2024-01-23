@@ -2,6 +2,8 @@
 
 <div align="center">
 <img src="assets/cc.gif"  width="200" height="200" align="center"/></div>
+
+
 <h1 align="center">Hi there 👋, I'm Tharindu Sandeepa</h1>
 <!-- Connect with me -->
 <h3 align="center">Connect with me</h3>
@@ -30,6 +32,9 @@
   
 <!-- Introduction and Learning -->
 - 🌱 I’m currently learning **JavaScript and MERN stack**
+- 👨‍🎓 I am an undergraduate student studying Software Engineering at SLIIT
+- 📚 Currently pursuing my degree in Software Engineering
+- 🌱 Passionate about learning and exploring the world of software development
 - 📫 How to reach me: [katharindusandeepa@gmail.com](mailto:katharindusandeepa@gmail.com)
   
 
