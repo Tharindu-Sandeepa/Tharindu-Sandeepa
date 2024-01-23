@@ -9,6 +9,8 @@
 - 📫 How to reach me: [katharindusandeepa@gmail.com](mailto:katharindusandeepa@gmail.com)
 
 ---
+<img src="assets/kk.jpeg" alt="Profile Picture" width="150" height="150"/>
+
 
 <!-- GitHub Stats and Streak -->
 <h2 align="center">🚀 My GitHub Statistics</h2>
