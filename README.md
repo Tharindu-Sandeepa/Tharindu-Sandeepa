@@ -1,4 +1,7 @@
 <!-- Title and Introduction -->
+
+<div align="center">
+<img src="assets/cc.gif"  width="200" height="200" align="center"/></div>
 <h1 align="center">Hi there 👋, I'm Tharindu Sandeepa</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tharindu-sandeepa&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu-sandeepa" />
@@ -9,7 +12,7 @@
 - 📫 How to reach me: [katharindusandeepa@gmail.com](mailto:katharindusandeepa@gmail.com)
 
 ---
-<img src="assets/kk.jpeg" alt="Profile Picture" width="150" height="150"/>
+
 
 
 <!-- GitHub Stats and Streak -->
@@ -46,4 +49,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <!-- Add more icons for the languages and tools you use -->
+
+---
 </p>
+<div align="center">
+<img src="assets/gg.gif"  width="200" height="200" align="center"/></div>
+
