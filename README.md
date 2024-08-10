@@ -1,5 +1,5 @@
 <!-- Title and Introduction -->
-<h1>IT22581266</h1>
+<h1>IT22581266 -  Sandeepa K.A.T </h1>
 <div align="center">
 <img src="assets/cc.gif"  width="200" height="200" align="center"/></div>
 
