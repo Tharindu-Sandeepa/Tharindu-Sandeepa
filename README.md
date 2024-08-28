@@ -8,7 +8,7 @@
 <!-- Connect with me -->
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/Tharindu-Sandeepa" target="_blank">
+  <a href="https://www.linkedin.com/in/tharindu-sandeepa99" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.faceboock.com/tharindu-sandeepa" target="_blank">
